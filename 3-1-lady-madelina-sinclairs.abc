@@ -1,14 +1,15 @@
 X:31
 T:Lady Madelina Sinclairs (strathspey)
+C:Niel Gow
 K:A
 M:C
 L:1/8
 V:1
 f | e>Ac>A c/d/e Tf2 | eA {f}ed/c/ {c}B2 Bf | eAcA c/d/e Tf2 | eA TcB {B}A2 A :|
-f/g/ | a>eTf>e f/g/a {ga}b2 | a/g/f/e/ a>c {c}B2 Bg | a>eTf>e (3fga (3gab | a/g/f/e/ f/g/a/e/ Ta2 ef/g/ | 
+f/g/ | a>eTf>e f/g/a {ga}b2 | a/g/f/e/ a>c {c}B2 Bg | a>eTf>e (3fga (3gab | a/g/f/e/ f/g/a/e/ Ta2 ef/g/ |
        afge fdec | d<bc<a {c}B2 BA | c/d/e Tf2 c/d/e Ta2 | A<ATc>B {B}A2 A |]
 V:2 clef=bass middle=d
 L:1/4
 z/ | aaaa | aaee | aaaa | eeAA/ :|
-z/ | aade | cAeE | aAde | cdcA | 
+z/ | aade | cAeE | aAde | cdcA |
      fedc | BAeE | AdAc | eEAA/ |]
